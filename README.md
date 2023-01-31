@@ -1,8 +1,1 @@
-```bash
-DATABASE_URL="postgres://postgres:postgrespw@localhost:49153/postgres"
-
-# PostgreSQL
-POSTGRES_DB=postgres
-POSTGRES_USER=postgres
-POSTGRES_PASSWORD=postgrespw
-```
+A progressive Node.js framework for building efficient, reliable and scalable server-side applications.
